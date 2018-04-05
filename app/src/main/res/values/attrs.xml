@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="LabelText" format="string" />
+    <attr name="labelSize" format="dimension" />
+    <attr name="labelColor" format="color" />
+    <attr name="frameColor" format="color" />
+
+    <declare-styleable name="CircularMenu">
+        <attr name="labelText" />
+        <attr name="labelSize" />
+        <attr name="labelColor" />
+        <attr name="frameColor" />
+    </declare-styleable>
+</resources>
